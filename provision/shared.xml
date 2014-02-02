@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config version="1.0" serial="14" timestamp="1391354658.13">
+  <UI>
+    <API>
+      <Authorizations>Skype4Py</Authorizations>
+      <BlockedPrograms></BlockedPrograms>
+    </API>
+    <Installed>2</Installed>
+    <Language>en</Language>
+  </UI>
+</config>
